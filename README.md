@@ -13,7 +13,7 @@ ____________________________________________________________________________
 | Artist         | String  | Text                  | Name of artist         |
 | Album          | String  | Text                  | Name of album          |
 | Release date   | Date    | DD/MM/YYYY            | Release date of album  |
-| Genres         | String  | Text, comma separated | Genre/s I hear album   |
-| Themes         | String  | Text, comma separated | Theme/s I hear Album   |
-| Language       | String  | Text                  | Main language used     |
+| Genres         | String  | Text, comma separated | Genre/s heard in album |
+| Descriptors    | String  | Text, comma separated | Words on the Album     |
+| Language       | String  | Text                  | Language/s used        |
 _____________________________________________________________________________
