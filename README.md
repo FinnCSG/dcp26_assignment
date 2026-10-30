@@ -17,3 +17,19 @@ ____________________________________________________________________________
 | Descriptors    | String  | Text, comma separated | Words on the Album     |
 | Language       | String  | Text, comma separated | Language/s used        |
 _____________________________________________________________________________
+
+
+
+
+
+| Column Name | Type | Format | Measured By |
+|---|---|---|---|
+| Date Listened | Date | DD/MM/YYYY | Date of first listen |
+| Initial Rating | Integer | 1–10 | Thoughts on first listen |
+| Current Rating | Integer | 1–10 | Current thoughts |
+| Artist | String | Text | Name of artist |
+| Album | String | Text | Name of album |
+| Release Date | Date | DD/MM/YYYY | Release date of album |
+| Genres | String | Text, comma-separated | Genre(s) associated with the album |
+| Descriptors | String | Text, comma-separated | Words that describe the album |
+| Language | String | Text, comma-separated | Language(s) used |
