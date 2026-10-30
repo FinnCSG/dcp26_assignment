@@ -15,5 +15,5 @@ ____________________________________________________________________________
 | Release date   | Date    | DD/MM/YYYY            | Release date of album  |
 | Genres         | String  | Text, comma separated | Genre/s heard in album |
 | Descriptors    | String  | Text, comma separated | Words on the Album     |
-| Language       | String  | Text                  | Language/s used        |
+| Language       | String  | Text, comma separated | Language/s used        |
 _____________________________________________________________________________
