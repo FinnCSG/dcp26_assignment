@@ -25,6 +25,8 @@ I also wanted to see if my first impressions of an album change much upon allowi
 | Language | String | Text, comma-separated | Language(s) used |
 
 # Description of the project
+Originally I planned to compile my data to paper as I collected it, this proved inefficeint so I opted to write it in my phones notes app
+![first data](firstdata.png)
 
 # Instructions for use
 
