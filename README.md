@@ -26,7 +26,7 @@ I also wanted to see if my first impressions of an album change much upon allowi
 
 # Description of the project
 Originally I planned to compile my data to paper as I collected it, this proved inefficeint so I opted to write it in my phones notes app
-![first data](firstdata.jpg)
+![first data](1000031656.jpg)
 
 # Instructions for use
 
