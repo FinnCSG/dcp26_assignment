@@ -16,7 +16,7 @@ I also wanted to see if my first impressions of an album change much upon allowi
 |---|---|---|---|
 | Date Listened | Date | YYYY/MM/DD | Date of first listen |
 | Initial Rating | Integer | 1–10 | Thoughts on first listen |
-| Current Rating | Integer | 1–10 | Current thoughts |
+| Current Rating | Integer | 1–10 | Thoughts after 1 hour |
 | Artist | String | Text | Name of artist |
 | Album | String | Text | Name of album |
 | Release Date | Date | YYYY/MM/DD | Release date of album |
