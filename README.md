@@ -1,7 +1,7 @@
 # Data Centric Programming Assignment 2026
 
-My data will be logging my listening habits and my rating of newly discorvered albums,
-I chose to record this as i wanted to see if I have any major preferences towards certain genres and themes in music.
+My data will be logging my listening habits and my rating of newly discovered albums,
+I chose to record this as I wanted to see if I have any major preferences towards certain genres and themes in music.
 I also wanted to see if my first impressions of an album change much upon allowing the album to sit with me for a while.
 
 # Questions
@@ -28,7 +28,7 @@ I also wanted to see if my first impressions of an album change much upon allowi
 
 Originally I planned to compile my data to paper as I collected it.
 ![first data](1000031656.jpg)
-This proved inefficeint so I opted to write it in my phones notes app.
+This proved inefficient, so I opted to write it in my phone's notes app.
 ![final data](1000031709.jpg)
 # Instructions for use
 
@@ -37,11 +37,11 @@ This proved inefficeint so I opted to write it in my phones notes app.
 # Findings
 
 After collecting and analysing all the data on the 36 albums,
-I have found several interesting insights into how My Musical preferences and thoughts on an album shift overtime and answers the questions I asked at the start of this project:
+I have found several interesting insights into how my musical preferences and thoughts on an album shift over time and answers to the questions I asked at the start of this project:
 
 Question 1. Do I have any major affinities towards year or genre?
 
-The Genre I listened to the most during the data collection time frame was Post Hardcore,
+The genre I listened to the most during the data collection time frame was Post Hardcore,
 which appeared as a genre in 5 albums.
 Other genres that appeared frequently include Indie Rock (3 times) and Singer Songwriter (3 times).
 
@@ -50,7 +50,7 @@ Prog Rock had a high average score (9.5) but I only listened to 2 albums from th
 The years 2026, 2000, and 1981 were the most frequent years,
 each appearing 3 times.
 
-I dont believe I can say with confidence that I have any particular preference towards a certain time period as the data is spread across 1960 to 2026.
+I don't believe I can say with confidence that I have any particular preference towards a certain time period as the data is spread across 1960 to 2026.
 Overall the data would suggest that i tend to enjoy a variety of genres and time periods,
 lacking an obvious preference.
 
@@ -61,7 +61,7 @@ Of the 36 albums i listned to:\
 16 had their rating increase.\
 2 had their rating decrease.
 
-My average initial rating was 7.28 while my average current rating was 7.97./
+My average initial rating was 7.28, while my average current rating was 7.97./
 The average increase in ratings was 0.69.
 
 A particularly large increase was seen on the album "Doolittle" by the band "Pixies",
@@ -74,11 +74,11 @@ Question 3. How likely am I to be positive or negative towards new music?
 I chose to have a rating of 6-10 be positive,
 and 1-5 be negative.
 
-33/36 (91.7%) albums recieved a positive initial rating.
+33/36 (91.7%) albums received a positive initial rating.
 
-Only 3 albums recieved a negative initial rating.
+Only 3 albums received a negative initial rating.
 
-My average inital rating was 7.28/10.
+My average initial rating was 7.28/10.
 
 This would suggest that I tend to be generally positive towards new music and new musical styles.
 
@@ -92,7 +92,7 @@ rather than become more negative.
 
 Overall my data suggests me to be quite positive towards new music.
 
-One particular limitation on this project ould be the relatively small dataset of 36 albums,
+One particular limitation on this project would be the relatively small dataset of 36 albums,
 given more time to listen to more new music and collect more data,
 I might be able to identify any patterns in my preferences.
 
