@@ -42,19 +42,32 @@ To answer the questions I asked at the start of this project:
 
 Question 1. Do I have any major affinities towards year or genre?
 
+The Genre i listened to the most during the data collection time frame was Post Hardcore,
+which appeared as a genre in 5 albums.
+Other genres that appeared frequently include Indie Rock (3 times) and Singer Songwriter (3 times).
+
+Prog Rock had a high average score (9.5) but I only listened to 2 albums from that genre.
+
+The years 2026, 2000, and 1981 were the most common years,
+each appearing 3 times.
+
+I dont believe I can say with confidence that I have any particular preference towards a certain time period as the data is spread across 1960 to 2026.
+Overall the data would suggest that i tend to enjoy a variety of genres and time periods,
+lacking an obvious preference.
+
 
 # List of files in the project
 
-1. Music_Data.csv
-2. README.md
-3. pt2.py
-4. pt3.py
-5. 1000031656.jpg
-6. genre_ratings.png
-7. music_database.db
-8. rating_comparison.png
-9. rating_distribution.png
-10. ratings_over_time.png
+Music_Data.csv\
+README.md\
+pt2.py\
+pt3.py\
+1000031656.jpg\
+genre_ratings.png\
+music_database.db\
+rating_comparison.png\
+rating_distribution.png\
+ratings_over_time.png\
 
 # References
 # What I am most proud of in the assignment
