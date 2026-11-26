@@ -1,6 +1,7 @@
 # Data Centric Programming Assignment 2026
 
 My data will be logging my listening habits and my rating of newly discorvered albums,
+
 I chose to record this as i wanted to see if I have any major preferences towards certain genres and themes in music.
 I also wanted to see if my first impressions of an album change much upon allowing the album to sit with me for a while.
 
@@ -25,6 +26,7 @@ I also wanted to see if my first impressions of an album change much upon allowi
 | Language | String | Text, comma-separated | Language(s) used |
 
 # Description of the project
+
 Originally I planned to compile my data to paper as I collected it, this proved inefficeint so I opted to write it in my phones notes app
 ![first data](1000031656.jpg)
 
@@ -34,8 +36,18 @@ Originally I planned to compile my data to paper as I collected it, this proved 
 
 # Findings
 # List of files in the project
-Music_Data.csv
-README.md
+
+1.Music_Data.csv
+2.README.md
+3.pt2.py
+4.pt3.py
+5.1000031656.jpg
+6.genre_ratings.png
+7.music_database.db
+8.rating_comparison.png
+9.rating_distribution.png
+10.ratings_over_time.png
+
 # References
 # What I am most proud of in the assignment
 # What I learned
