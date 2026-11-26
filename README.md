@@ -55,6 +55,49 @@ I dont believe I can say with confidence that I have any particular preference t
 Overall the data would suggest that i tend to enjoy a variety of genres and time periods,
 lacking an obvious preference.
 
+Question 2. Do my thoughts on albums change much after the first listen?
+
+Generally my opinions stayed the same or became more positive after spending more time thinking about the album.
+
+Of the 36 albums i listned to:\
+18 stayed at the same rating.\
+16 had their rating increase.\
+2 had their rating decrease.
+
+My average initial rating was 7.28 while my average current rating was 7.97./
+The average increase in ratings was 0.69.
+
+A particularly large increase was seen on the album "Doolittle" by the band "Pixies",
+with the album having its initial rating of 5 increased to a current rating of 8.
+
+Examples like these show that I tend to appreciate albums more after some time spent processing them.
+
+Question 3. How likely am I to be positive or negative towards new music?
+
+I chose to have a rating of 6-10 be positive,
+and 1-5 to be negative.
+
+33/36 (91.7%) albums recieved a positive initial rating.
+
+Only 3 albums recieved a negative initial rating.
+
+My average inital rating was 7.28/10.
+
+This would suggest that I tend to be generally positive towards new music and new musical styles.
+
+In conclusion:
+
+I have discovered that my taste in music can be varied,
+with no discernible distaste to a particular genre or era.
+
+I also found that my opinion on new albums tends to improve over time or remain unchanged,
+rather than become more negative.
+
+Overall my data suggests me to be quite positive towards new music.
+
+One particular limitation on this project ould be the relatively small dataset of 36 albums,
+given more time to listen to more new music and collect more data,
+I might be able to identify any patterns in my preferences.
 
 # List of files in the project
 
