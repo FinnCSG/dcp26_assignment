@@ -26,10 +26,10 @@ I also wanted to see if my first impressions of an album change much upon allowi
 
 # Description of the project
 
-Originally I planned to compile my data to paper as I collected it
+Originally I planned to compile my data to paper as I collected it.
 ![first data](1000031656.jpg)
-this proved inefficeint so I opted to write it in my phones notes app
-
+This proved inefficeint so I opted to write it in my phones notes app.
+![final data](1000031709.jpg)
 # Instructions for use
 
 # How it works:
@@ -104,7 +104,7 @@ I might be able to identify any patterns in my preferences.
 |pt2.py|Self Written|
 |pt3.py|Self Written|
 |1000031656.jpg|Taken by me|
-|.jpg|Screenshot from my phone|
+|1000031709.jpg|Screenshot from my phones notes app|
 |genre_ratings.png|Generated via my python/ matplotlib code|
 |music_database.db|Generated via my python/ sqlite3 code|
 |rating_comparison.png|Generated via my python/ matplotlib code|
