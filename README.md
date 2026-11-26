@@ -112,6 +112,6 @@ I might be able to identify any patterns in my preferences.
 |ratings_over_time.png|Generated via my python/ matplotlib code|
 
 # References
-*https://github.com/skooter500/dcp26-assignment/blob/main/README.MD
+* https://github.com/skooter500/dcp26-assignment/blob/main/README.MD
 # What I am most proud of in the assignment
 # What I learned
