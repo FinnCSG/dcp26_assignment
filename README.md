@@ -8,7 +8,7 @@ I also wanted to see if my first impressions of an album change much upon allowi
 
 1. Do I have any major affinities towards year or genre?
 2. Do my thoughts on albums change much after the first listen?
-3. How likely am i to be positive or negative towards new music?
+3. How likely am I to be positive or negative towards new music?
 
 # Data Dictionary
 
@@ -34,6 +34,8 @@ Originally I planned to compile my data to paper as I collected it, this proved 
 
 # Findings
 # List of files in the project
+Music_Data.csv
+README.md
 # References
 # What I am most proud of in the assignment
 # What I learned
